@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 80" role="img" aria-labelledby="title">
+  <title id="title">European Union emblem</title>
+  <rect width="120" height="80" fill="#003399"/>
+  <defs>
+    <polygon id="star" points="0,-4.8 1.08,-1.49 4.56,-1.49 1.74,0.57 2.82,3.88 0,1.84 -2.82,3.88 -1.74,0.57 -4.56,-1.49 -1.08,-1.49" fill="#ffcc00"/>
+  </defs>
+  <g transform="translate(60 40)">
+    <use href="#star" x="0" y="-26"/>
+    <use href="#star" x="13" y="-22.5"/>
+    <use href="#star" x="22.5" y="-13"/>
+    <use href="#star" x="26" y="0"/>
+    <use href="#star" x="22.5" y="13"/>
+    <use href="#star" x="13" y="22.5"/>
+    <use href="#star" x="0" y="26"/>
+    <use href="#star" x="-13" y="22.5"/>
+    <use href="#star" x="-22.5" y="13"/>
+    <use href="#star" x="-26" y="0"/>
+    <use href="#star" x="-22.5" y="-13"/>
+    <use href="#star" x="-13" y="-22.5"/>
+  </g>
+</svg>
